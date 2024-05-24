@@ -51,6 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khetansarvesh&show_icons=true&locale=en&layout=compact" alt="khetansarvesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khetansarvesh&show_icons=true&locale=en" alt="khetansarvesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khetansarvesh&show_icons=true&locale=en&theme=transparent" alt="khetansarvesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khetansarvesh&" alt="khetansarvesh" /></p>
