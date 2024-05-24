@@ -7,6 +7,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mathematical Orgasm with Logistic Regression](https://khetansarvesh.medium.com/mathematical-orgasm-for-logistic-regression-40b404266e54?source=rss-ff946da4f2c------2)
+- [K-Nearest Neighbours &lpar;KNN&rpar; for Classification](https://khetansarvesh.medium.com/k-nearest-neighbours-knn-for-classification-da05a58d924b?source=rss-ff946da4f2c------2)
+- [Decoding Linear Soft SVM for Classification over Linear Hard SVM](https://khetansarvesh.medium.com/decoding-linear-soft-svm-for-classification-over-linear-hard-svm-f84cbc111913?source=rss-ff946da4f2c------2)
+- [Support Vector Machine &lpar;SVM&rpar; — An Optimisation Mammoth — PART 2](https://khetansarvesh.medium.com/support-vector-machine-svm-an-optimisation-mammoth-part-2-68d6e6bde7a4?source=rss-ff946da4f2c------2)
+- [Support Vector Machine &lpar;SVM&rpar; — An Optimisation Mammoth](https://khetansarvesh.medium.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
