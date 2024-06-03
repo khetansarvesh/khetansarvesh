@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Parallel Classification Ensemblers](https://khetansarvesh.medium.com/parallel-classification-ensemblers-bd9f2d9d1491?source=rss-ff946da4f2c------2)
 - [Parallel Regression Ensemblers](https://khetansarvesh.medium.com/parallel-regression-ensemblers-be8037854336?source=rss-ff946da4f2c------2)
 - [Bayes Algorithm for Binary Classification Explained with Equations](https://khetansarvesh.medium.com/bayes-algorithm-for-binary-classification-explained-with-equations-df6ccd977631?source=rss-ff946da4f2c------2)
 - [Multiclass Bayes Classification Algorithm Decoded](https://khetansarvesh.medium.com/multiclass-bayes-classification-algorithm-decoded-1640e6ed29c4?source=rss-ff946da4f2c------2)
 - [Mathematical Orgasm with Logistic Regression](https://khetansarvesh.medium.com/mathematical-orgasm-for-logistic-regression-40b404266e54?source=rss-ff946da4f2c------2)
-- [K-Nearest Neighbours &lpar;KNN&rpar; for Classification](https://khetansarvesh.medium.com/k-nearest-neighbours-knn-for-classification-da05a58d924b?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
