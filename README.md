@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Unfolding Maths for Linear Regression — Part 2&lpar;Simple Linear Regression&rpar;](https://khetansarvesh.medium.com/unfolding-maths-for-linear-regression-part-2-simple-linear-regression-f1a56298e5fb?source=rss-ff946da4f2c------2)
 - [Unfolding Maths for Linear Regression — Part 1 &lpar;Simple Linear Regression&rpar;](https://khetansarvesh.medium.com/unfolding-maths-for-linear-regression-part-1-simple-linear-regression-561d9e6182f0?source=rss-ff946da4f2c------2)
 - [Kernel Regression](https://khetansarvesh.medium.com/kernel-regression-fc38027cc3f3?source=rss-ff946da4f2c------2)
 - [Parallel Classification Ensemblers](https://khetansarvesh.medium.com/parallel-classification-ensemblers-bd9f2d9d1491?source=rss-ff946da4f2c------2)
 - [Parallel Regression Ensemblers](https://khetansarvesh.medium.com/parallel-regression-ensemblers-be8037854336?source=rss-ff946da4f2c------2)
-- [Bayes Algorithm for Binary Classification Explained with Equations](https://khetansarvesh.medium.com/bayes-algorithm-for-binary-classification-explained-with-equations-df6ccd977631?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
