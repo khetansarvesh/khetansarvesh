@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to AutoEncoders &lpar;UnderComplete / OverComplete / Sparse&rpar;](https://khetansarvesh.medium.com/introduction-to-autoencoders-undercomplete-overcomplete-sparse-74c7b0e90ab6?source=rss-ff946da4f2c------2)
 - [Penalty Regulariser — Ridge &amp; Lasso Regression](https://khetansarvesh.medium.com/penalty-regulariser-ridge-lasso-regression-c0ce63b3a2bf?source=rss-ff946da4f2c------2)
 - [Unfolding Math for Polynomial &lpar;Non-Linear&rpar; Regression](https://khetansarvesh.medium.com/unfolding-math-for-polynomial-non-linear-regression-7ad8f486d53a?source=rss-ff946da4f2c------2)
 - [Unfolding Maths for Linear Regression — Part 3&lpar;Multiple Linear Regression&rpar;](https://khetansarvesh.medium.com/unfolding-maths-for-linear-regression-part-3-multiple-linear-regression-3a03004f76d2?source=rss-ff946da4f2c------2)
 - [Unfolding Maths for Linear Regression — Part 2&lpar;Simple Linear Regression&rpar;](https://khetansarvesh.medium.com/unfolding-maths-for-linear-regression-part-2-simple-linear-regression-f1a56298e5fb?source=rss-ff946da4f2c------2)
-- [Unfolding Maths for Linear Regression — Part 1 &lpar;Simple Linear Regression&rpar;](https://khetansarvesh.medium.com/unfolding-maths-for-linear-regression-part-1-simple-linear-regression-561d9e6182f0?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
