@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Image Data-Augmentation Techniques](https://khetansarvesh.medium.com/image-data-augmentation-techniques-545129f25f9d?source=rss-ff946da4f2c------2)
 - [Image Data Augmentation Techniques](https://khetansarvesh.medium.com/image-data-augmentation-techniques-d9323f22153f?source=rss-ff946da4f2c------2)
 - [Data Augmentation for Classification FFNN](https://khetansarvesh.medium.com/data-augmentation-for-classification-ffnn-fa53c233e42e?source=rss-ff946da4f2c------2)
 - [Data Augmentation for Regression FFNN](https://khetansarvesh.medium.com/data-augmentation-for-regression-ffnn-8b2ca20aba7c?source=rss-ff946da4f2c------2)
 - [Introduction to Variational AutoEncoders &lpar;VAE&rpar;](https://khetansarvesh.medium.com/introduction-to-variational-autoencoders-vae-ae000fcf45d6?source=rss-ff946da4f2c------2)
-- [Orgasm with Generative Adversarial Networks &lpar;GANs&rpar; Math](https://khetansarvesh.medium.com/orgasm-with-generative-adversarial-networks-gans-math-2b3dc14887a1?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
