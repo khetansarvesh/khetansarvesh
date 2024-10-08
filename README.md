@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Clustering Algorithms](https://khetansarvesh.medium.com/decoding-clustering-algorithms-14375f1aedbd?source=rss-ff946da4f2c------2)
 - [Discrete Univariate Random Variable](https://khetansarvesh.medium.com/discrete-univariate-random-variable-217c32e5dd3e?source=rss-ff946da4f2c------2)
 - [Cross Sectional Tabular Data Pre-Processing Pipeline](https://khetansarvesh.medium.com/tabular-data-pre-processing-pipeline-af083cab9c52?source=rss-ff946da4f2c------2)
 - [Decision Tree — Classification Explained !!](https://khetansarvesh.medium.com/decision-tree-classification-explained-909a2fbf5993?source=rss-ff946da4f2c------2)
 - [Image Data Augmentation Techniques](https://khetansarvesh.medium.com/image-data-augmentation-techniques-d9323f22153f?source=rss-ff946da4f2c------2)
-- [Data Augmentation for Classification FFNN](https://khetansarvesh.medium.com/data-augmentation-for-classification-ffnn-fa53c233e42e?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
