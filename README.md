@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Univariate Random Variable](https://khetansarvesh.medium.com/continuous-univariate-random-variable-f7e87e6e258c?source=rss-ff946da4f2c------2)
 - [Computer Vision — Object Detection Task](https://khetansarvesh.medium.com/computer-vision-object-detection-task-b572d58f2ada?source=rss-ff946da4f2c------2)
 - [Computer Vision — Object Localization Task](https://khetansarvesh.medium.com/computer-vision-object-localization-task-2d536238510f?source=rss-ff946da4f2c------2)
 - [Decoding Clustering Algorithms](https://khetansarvesh.medium.com/decoding-clustering-algorithms-14375f1aedbd?source=rss-ff946da4f2c------2)
 - [Discrete Univariate Random Variable](https://khetansarvesh.medium.com/discrete-univariate-random-variable-217c32e5dd3e?source=rss-ff946da4f2c------2)
-- [Cross Sectional Tabular Data Pre-Processing Pipeline](https://khetansarvesh.medium.com/tabular-data-pre-processing-pipeline-af083cab9c52?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
