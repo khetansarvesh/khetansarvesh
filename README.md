@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Transformers for Images!!](https://khetansarvesh.medium.com/transformers-for-images-b14b3ac0dda8?source=rss-ff946da4f2c------2)
 - [Modelling Based Methods for Image Representation Learning](https://khetansarvesh.medium.com/modelling-based-methods-for-image-representation-learning-48cd5f56ad0d?source=rss-ff946da4f2c------2)
 - [Non Modelling Methods for Image Representation Learning](https://khetansarvesh.medium.com/non-modelling-methods-for-image-representation-learning-5a3b80a31a29?source=rss-ff946da4f2c------2)
 - [Coding Convolution Neural Networks &lpar;CNN&rpar; From Scratch without Pytorch](https://khetansarvesh.medium.com/coding-convolution-neural-networks-cnn-from-scratch-without-pytorch-76e9497fa0c4?source=rss-ff946da4f2c------2)
 - [Semantic Segmentation Models Clearly Explained !!!](https://khetansarvesh.medium.com/semantic-segmentation-models-clearly-explained-780bde9515b5?source=rss-ff946da4f2c------2)
-- [Bivariate Continuous Random Variable](https://khetansarvesh.medium.com/bivariate-continuous-random-variable-3d175005617d?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
