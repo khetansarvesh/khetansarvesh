@@ -39,7 +39,7 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
-- [Transformers for Images!!](https://khetansarvesh.medium.com/transformers-for-images-b14b3ac0dda8?source=rss-ff946da4f2c------2)
+- [Transformers for Images!!](https://pub.towardsai.net/transformers-for-images-b14b3ac0dda8?source=rss-ff946da4f2c------2)
 - [Modelling Based Methods for Image Representation Learning](https://khetansarvesh.medium.com/modelling-based-methods-for-image-representation-learning-48cd5f56ad0d?source=rss-ff946da4f2c------2)
 - [Non Modelling Methods for Image Representation Learning](https://khetansarvesh.medium.com/non-modelling-methods-for-image-representation-learning-5a3b80a31a29?source=rss-ff946da4f2c------2)
 - [Coding Convolution Neural Networks &lpar;CNN&rpar; From Scratch without Pytorch](https://khetansarvesh.medium.com/coding-convolution-neural-networks-cnn-from-scratch-without-pytorch-76e9497fa0c4?source=rss-ff946da4f2c------2)
