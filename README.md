@@ -39,7 +39,7 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
-- [RoadMap to Style GANs](https://khetansarvesh.medium.com/roadmap-to-style-gans-ed0f5c36b4f4?source=rss-ff946da4f2c------2)
+- [RoadMap to Style GANs](https://levelup.gitconnected.com/roadmap-to-style-gans-ed0f5c36b4f4?source=rss-ff946da4f2c------2)
 - [StyleTransfer — Image2Image Translation Task](https://khetansarvesh.medium.com/image2image-translation-task-588d134e9ee8?source=rss-ff946da4f2c------2)
 - [Transformers For Images!!](https://pub.towardsai.net/transformers-for-images-b14b3ac0dda8?source=rss-ff946da4f2c------2)
 - [Modelling Based Methods for Image Representation Learning](https://levelup.gitconnected.com/modelling-based-methods-for-image-representation-learning-48cd5f56ad0d?source=rss-ff946da4f2c------2)
