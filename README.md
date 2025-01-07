@@ -42,7 +42,7 @@
 - [LSTM for Sequence Classification](https://khetansarvesh.medium.com/lstm-for-sequence-classification-9997b4b4f422?source=rss-ff946da4f2c------2)
 - [Recurrent Neural Networks&lpar;RNNs&rpar; for Sequence Classification](https://khetansarvesh.medium.com/recurrent-neural-networks-rnns-for-sequence-classification-0efd31cd36a0?source=rss-ff946da4f2c------2)
 - [Deep Learning for Time Series Forecasting](https://khetansarvesh.medium.com/deep-learning-for-time-series-forecasting-ff5c8bf35134?source=rss-ff946da4f2c------2)
-- [Sentimental Analysis Using Deep Learning](https://khetansarvesh.medium.com/sentimental-analysis-using-deep-learning-3a2dee80cf77?source=rss-ff946da4f2c------2)
+- [Sentimental Analysis Using Deep Learning](https://levelup.gitconnected.com/sentimental-analysis-using-deep-learning-3a2dee80cf77?source=rss-ff946da4f2c------2)
 - [Transformers for Videos](https://pub.towardsai.net/transformers-for-videos-85c0009e477a?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
