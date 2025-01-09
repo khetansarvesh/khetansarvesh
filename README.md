@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Transformers](https://levelup.gitconnected.com/efficient-transformers-9304727842da?source=rss-ff946da4f2c------2)
 - [Implement Transformers &lpar;Bidirectional&rpar; from Scratch in Pytorch for Sequence Classification](https://levelup.gitconnected.com/implement-transformers-bidirectional-from-scratch-in-pytorch-for-sequence-classification-0cdabb7d0d4e?source=rss-ff946da4f2c------2)
 - [LSTM for Sequence Classification](https://khetansarvesh.medium.com/lstm-for-sequence-classification-9997b4b4f422?source=rss-ff946da4f2c------2)
 - [Recurrent Neural Networks&lpar;RNNs&rpar; for Sequence Classification](https://khetansarvesh.medium.com/recurrent-neural-networks-rnns-for-sequence-classification-0efd31cd36a0?source=rss-ff946da4f2c------2)
 - [Deep Learning for Time Series Forecasting](https://khetansarvesh.medium.com/deep-learning-for-time-series-forecasting-ff5c8bf35134?source=rss-ff946da4f2c------2)
-- [Sentimental Analysis Using Deep Learning](https://levelup.gitconnected.com/sentimental-analysis-using-deep-learning-3a2dee80cf77?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
