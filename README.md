@@ -43,7 +43,7 @@
 - [Q Learning — Deep Reinforcement Learning](https://khetansarvesh.medium.com/q-learning-deep-reinforcement-learning-ff162e9aca18?source=rss-ff946da4f2c------2)
 - [Efficient Transformers](https://levelup.gitconnected.com/efficient-transformers-9304727842da?source=rss-ff946da4f2c------2)
 - [Implement Transformers &lpar;Bidirectional&rpar; from Scratch in Pytorch for Sequence Classification](https://levelup.gitconnected.com/implement-transformers-bidirectional-from-scratch-in-pytorch-for-sequence-classification-0cdabb7d0d4e?source=rss-ff946da4f2c------2)
-- [LSTM for Sequence Classification](https://khetansarvesh.medium.com/lstm-for-sequence-classification-9997b4b4f422?source=rss-ff946da4f2c------2)
+- [LSTM for Sequence Classification](https://pub.towardsai.net/lstm-for-sequence-classification-9997b4b4f422?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
