@@ -39,7 +39,7 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
-- [Actor Critic — Deep Reinforcement Learning](https://khetansarvesh.medium.com/actor-critic-deep-reinforcement-learning-7632d8337d07?source=rss-ff946da4f2c------2)
+- [Actor Critic — Deep Reinforcement Learning](https://pub.towardsai.net/actor-critic-deep-reinforcement-learning-7632d8337d07?source=rss-ff946da4f2c------2)
 - [Policy Learning — Deep Reinforcement Learning](https://pub.towardsai.net/policy-learning-deep-reinforcement-learning-83fb6e5aa025?source=rss-ff946da4f2c------2)
 - [Q Learning — Deep Reinforcement Learning](https://pub.towardsai.net/q-learning-deep-reinforcement-learning-ff162e9aca18?source=rss-ff946da4f2c------2)
 - [Efficient Transformers](https://levelup.gitconnected.com/efficient-transformers-9304727842da?source=rss-ff946da4f2c------2)
