@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Training Engine &lpar;ETE&rpar; for Large Deep Learning Models](https://khetansarvesh.medium.com/efficient-training-engine-ete-for-large-deep-learning-models-ec08a4e6418a?source=rss-ff946da4f2c------2)
 - [Actor Critic — Deep Reinforcement Learning](https://pub.towardsai.net/actor-critic-deep-reinforcement-learning-7632d8337d07?source=rss-ff946da4f2c------2)
 - [Policy Learning — Deep Reinforcement Learning](https://pub.towardsai.net/policy-learning-deep-reinforcement-learning-83fb6e5aa025?source=rss-ff946da4f2c------2)
 - [Q Learning — Deep Reinforcement Learning](https://pub.towardsai.net/q-learning-deep-reinforcement-learning-ff162e9aca18?source=rss-ff946da4f2c------2)
 - [Efficient Transformers](https://levelup.gitconnected.com/efficient-transformers-9304727842da?source=rss-ff946da4f2c------2)
-- [Implement Transformers &lpar;Bidirectional&rpar; from Scratch in Pytorch for Sequence Classification](https://levelup.gitconnected.com/implement-transformers-bidirectional-from-scratch-in-pytorch-for-sequence-classification-0cdabb7d0d4e?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
