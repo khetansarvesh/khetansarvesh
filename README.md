@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Inference Engine &lpar;EIE&rpar; for Large Deep Learning Models](https://khetansarvesh.medium.com/efficient-inference-engine-eie-for-large-deep-learning-models-d82aa24cd6b1?source=rss-ff946da4f2c------2)
-- [Efficient Training Engine &lpar;ETE&rpar; for Large Deep Learning Models](https://khetansarvesh.medium.com/efficient-training-engine-ete-for-large-deep-learning-models-ec08a4e6418a?source=rss-ff946da4f2c------2)
+- [Preference Alignment](https://khetansarvesh.medium.com/preference-alignment-0b67777fa7af?source=rss-ff946da4f2c------2)
+- [Efficient Inference Engine &lpar;EIE&rpar; for Large Deep Learning Models](https://levelup.gitconnected.com/efficient-inference-engine-eie-for-large-deep-learning-models-d82aa24cd6b1?source=rss-ff946da4f2c------2)
+- [Efficient Training Engine &lpar;ETE&rpar; for Large Deep Learning Models](https://pub.towardsai.net/efficient-training-engine-ete-for-large-deep-learning-models-ec08a4e6418a?source=rss-ff946da4f2c------2)
 - [Actor Critic — Deep Reinforcement Learning](https://pub.towardsai.net/actor-critic-deep-reinforcement-learning-7632d8337d07?source=rss-ff946da4f2c------2)
 - [Policy Learning — Deep Reinforcement Learning](https://pub.towardsai.net/policy-learning-deep-reinforcement-learning-83fb6e5aa025?source=rss-ff946da4f2c------2)
-- [Q Learning — Deep Reinforcement Learning](https://pub.towardsai.net/q-learning-deep-reinforcement-learning-ff162e9aca18?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
