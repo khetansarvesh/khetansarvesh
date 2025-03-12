@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Graph Neural Networks &lpar;GNN&rpar;](https://khetansarvesh.medium.com/introduction-to-graph-neural-networks-gnn-a145a81a81dc?source=rss-ff946da4f2c------2)
 - [Distributed Data Parallelism &lpar;DDP&rpar;](https://levelup.gitconnected.com/distributed-data-parallelism-ddp-5fe2134b6fd7?source=rss-ff946da4f2c------2)
 - [Preference Alignment](https://pub.towardsai.net/preference-alignment-0b67777fa7af?source=rss-ff946da4f2c------2)
 - [Efficient Inference Engine &lpar;EIE&rpar; for Large Deep Learning Models](https://levelup.gitconnected.com/efficient-inference-engine-eie-for-large-deep-learning-models-d82aa24cd6b1?source=rss-ff946da4f2c------2)
 - [Efficient Training Engine &lpar;ETE&rpar; for Large Deep Learning Models](https://pub.towardsai.net/efficient-training-engine-ete-for-large-deep-learning-models-ec08a4e6418a?source=rss-ff946da4f2c------2)
-- [Actor Critic — Deep Reinforcement Learning](https://pub.towardsai.net/actor-critic-deep-reinforcement-learning-7632d8337d07?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
