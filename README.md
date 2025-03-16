@@ -39,11 +39,11 @@
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Generating Graphs using Deep Learning](https://khetansarvesh.medium.com/generating-graphs-using-deep-learning-075466e23825?source=rss-ff946da4f2c------2)
 - [Graph Representation Learning using Graph Transformers !!](https://khetansarvesh.medium.com/graph-representation-learning-using-graph-transformers-488ce1670469?source=rss-ff946da4f2c------2)
 - [Graph Representation Learning using Graph Convolution / Attention Network](https://pub.towardsai.net/graph-representation-learning-using-graph-convolution-attention-network-452732f69027?source=rss-ff946da4f2c------2)
 - [Introduction to Graph Neural Networks &lpar;GNN&rpar;](https://pub.towardsai.net/introduction-to-graph-neural-networks-gnn-a145a81a81dc?source=rss-ff946da4f2c------2)
 - [Distributed Data Parallelism &lpar;DDP&rpar;](https://levelup.gitconnected.com/distributed-data-parallelism-ddp-5fe2134b6fd7?source=rss-ff946da4f2c------2)
-- [Preference Alignment](https://pub.towardsai.net/preference-alignment-0b67777fa7af?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
