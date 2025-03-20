@@ -11,6 +11,8 @@
 </h3>
 
 
+I have written this book, which takes you from basics of Machine Learning to expert in Deep Learning. (Note : I constantly keep updating this book as new technologies like LLMs arrive in this field and as I keep learning !!)
+
 
 
 <div align="center"> 
