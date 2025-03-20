@@ -13,6 +13,22 @@
 
 I have written this book, which takes you from basics of Machine Learning to expert in Deep Learning. (Note : I constantly keep updating this book as new technologies like LLMs arrive in this field and as I keep learning !!)
 
+- Prerequisites
+    - Linear Algebra
+    - Probability
+    - Calculus
+ 
+-  Uni-Modal (Single Modality) Data Type Modelling :
+    -  [Tabular Cross Sectional Data](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/tree/main)
+    -  [Tabular Sequential Data](https://github.com/khetansarvesh/Time-Series-Modelling/tree/main)
+    -  [2D Image Data - Computer Vision (CV)](https://github.com/khetansarvesh/CV/tree/main)
+    -  [Video Only Data (no audio)](https://github.com/khetansarvesh/video)
+    -  [Audio Data](https://github.com/khetansarvesh/Audio)
+    -  [Text Data - Natural Language Processing (NLP)](https://github.com/khetansarvesh/NLP)
+    -  [Graph Data](https://github.com/khetansarvesh/GNN/tree/main)
+      
+-  [Multi-Modal Data Type Modelling](https://github.com/khetansarvesh/multimodal_ai)
+
 
 
 <div align="center"> 
