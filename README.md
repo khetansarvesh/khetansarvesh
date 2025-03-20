@@ -18,7 +18,6 @@ This book is designed for computer science students, software engineers, data sc
 
 
 ## Prerequisites
-Before diving into deep learning architectures, you should have familiarity with : 
 - Linear Algebra - Understanding vectors, matrices, eigenvalues
 - Probability - Basic concepts of random variables, distributions, and Bayesian thinking
 - Calculus - Derivatives, gradients, chain rule, and optimization fundamentals
