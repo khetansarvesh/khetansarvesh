@@ -12,7 +12,7 @@
 
 
 I have written this comprehensive guide that takes you from the basics of Machine Learning to becoming an expert in Deep Learning. This book bridges theoretical foundations with cutting-edge applications, giving you both the knowledge and practical skills needed in today's AI landscape.
-Note: I continuously update this book as new technologies like LLMs emerge and as my own understanding deepens.
+<ins> Note: I continuously update this book as new technologies like LLMs emerge and as my own understanding deepens. </ins>
 
 This book is designed for computer science students, software engineers, data scientists, and mathematics enthusiasts who want to build a solid foundation in deep learning. Whether you're starting with basic programming knowledge or transitioning from traditional machine learning, you'll find a structured path forward.
 
