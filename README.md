@@ -63,11 +63,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Downstream Tasks using VLMs](https://khetansarvesh.medium.com/downstream-tasks-using-vlms-57be1fadb618?source=rss-ff946da4f2c------2)
 - [Video Reconstruction using Transformers](https://pub.towardsai.net/video-reconstruction-using-transformers-b0a73ff3396f?source=rss-ff946da4f2c------2)
 - [Supervised Downstream Tasks on Graphs using GNNs](https://khetansarvesh.medium.com/supervised-downstream-tasks-on-graphs-using-gnns-8d1f03ae0c2a?source=rss-ff946da4f2c------2)
 - [Generating Graphs using Deep Learning](https://khetansarvesh.medium.com/generating-graphs-using-deep-learning-075466e23825?source=rss-ff946da4f2c------2)
 - [Graph Representation Learning using Graph Transformers !!](https://khetansarvesh.medium.com/graph-representation-learning-using-graph-transformers-488ce1670469?source=rss-ff946da4f2c------2)
-- [Graph Representation Learning using Graph Convolution / Attention Network](https://pub.towardsai.net/graph-representation-learning-using-graph-convolution-attention-network-452732f69027?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
