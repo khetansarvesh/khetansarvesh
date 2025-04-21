@@ -63,11 +63,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
-- [Denoising Diffusion Probabilistic Models &lpar;DDPMs&rpar;](https://khetansarvesh.medium.com/denoising-diffusion-probabilistic-models-ddpms-ebd39ef38ddc?source=rss-ff946da4f2c------2)
+- [Denoising Diffusion Probabilistic Models &lpar;DDPMs&rpar;](https://levelup.gitconnected.com/denoising-diffusion-probabilistic-models-ddpms-ebd39ef38ddc?source=rss-ff946da4f2c------2)
 - [Cross Modal AI — Text2X Tasks](https://khetansarvesh.medium.com/cross-modal-ai-text2x-tasks-2911b7a9fd0c?source=rss-ff946da4f2c------2)
 - [Natural Language Generation &lpar;X2Text&rpar; Tasks](https://khetansarvesh.medium.com/natural-language-generation-x2text-tasks-78641031b033?source=rss-ff946da4f2c------2)
-- [Single Stream Representation Learning for Visual Language Models &lpar;VLMs&rpar;](https://khetansarvesh.medium.com/single-stream-representation-learning-for-visual-language-models-vlms-b9455b35216a?source=rss-ff946da4f2c------2)
-- [Parallel Stream Representation Learning for Visual Language Models &lpar;VLMs&rpar;](https://khetansarvesh.medium.com/parallel-stream-representation-learning-for-visual-language-models-vlms-3b9233f3f8c5?source=rss-ff946da4f2c------2)
+- [Single Stream Representation Learning for Visual Language Models &lpar;VLMs&rpar;](https://pub.towardsai.net/single-stream-representation-learning-for-visual-language-models-vlms-b9455b35216a?source=rss-ff946da4f2c------2)
+- [Parallel Stream Representation Learning for Visual Language Models &lpar;VLMs&rpar;](https://levelup.gitconnected.com/parallel-stream-representation-learning-for-visual-language-models-vlms-3b9233f3f8c5?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
