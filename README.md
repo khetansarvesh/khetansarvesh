@@ -63,11 +63,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Class Linear Logistic Regression/ Linear Softmax Regression](https://khetansarvesh.medium.com/multi-class-linear-logistic-regression-linear-softmax-regression-fac5569387df?source=rss-ff946da4f2c------2)
 - [Multivariate Regression](https://khetansarvesh.medium.com/multivariate-regression-4b828cf88437?source=rss-ff946da4f2c------2)
 - [Artificial Neural Networks &lpar;ANNs&rpar;](https://khetansarvesh.medium.com/artificial-neural-networks-anns-9ec2d198bbd8?source=rss-ff946da4f2c------2)
 - [Linear Perceptron — Regression](https://khetansarvesh.medium.com/linear-perceptron-regression-10f6f1006afb?source=rss-ff946da4f2c------2)
 - [Denoising Diffusion Probabilistic Models &lpar;DDPMs&rpar;](https://levelup.gitconnected.com/denoising-diffusion-probabilistic-models-ddpms-ebd39ef38ddc?source=rss-ff946da4f2c------2)
-- [Cross Modal AI — Text2X Tasks](https://pub.towardsai.net/cross-modal-ai-text2x-tasks-2911b7a9fd0c?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
