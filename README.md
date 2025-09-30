@@ -63,11 +63,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [POS Tagging using Deep Learning](https://khetansarvesh.medium.com/pos-tagging-using-deep-learning-9e8fd316eeab?source=rss-ff946da4f2c------2)
 - [LLM Fine Tuning using RL for Reasoning](https://khetansarvesh.medium.com/llm-fine-tuning-using-rl-for-reasoning-857f9db05ba6?source=rss-ff946da4f2c------2)
 - [Supervised Deep Learning for Multiclass Classification](https://khetansarvesh.medium.com/supervised-deep-learning-for-multiclass-classification-f7d3838d0490?source=rss-ff946da4f2c------2)
 - [Multi-Class Linear Logistic Regression/ Linear Softmax Regression](https://khetansarvesh.medium.com/multi-class-linear-logistic-regression-linear-softmax-regression-fac5569387df?source=rss-ff946da4f2c------2)
 - [Multivariate Regression](https://khetansarvesh.medium.com/multivariate-regression-4b828cf88437?source=rss-ff946da4f2c------2)
-- [Artificial Neural Networks &lpar;ANNs&rpar;](https://levelup.gitconnected.com/artificial-neural-networks-anns-9ec2d198bbd8?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
