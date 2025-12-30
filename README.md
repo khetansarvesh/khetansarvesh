@@ -63,11 +63,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [LLM Workflows](https://khetansarvesh.medium.com/llm-workflows-6988b7bd4210?source=rss-ff946da4f2c------2)
 - [Uniform Recursion in Arrays](https://khetansarvesh.medium.com/uniform-recursion-in-arrays-a5a08d473378?source=rss-ff946da4f2c------2)
 - [LLM Agents](https://levelup.gitconnected.com/deep-research-agent-2da7f25359b8?source=rss-ff946da4f2c------2)
 - [Building Large Language Models &lpar;LLMs&rpar;](https://levelup.gitconnected.com/building-large-language-models-llms-6a67af3cc3c8?source=rss-ff946da4f2c------2)
 - [Fill in the Blank Task — Masked Language Modelling &lpar;MLM&rpar;](https://levelup.gitconnected.com/fill-in-the-blank-task-a60382210095?source=rss-ff946da4f2c------2)
-- [Instruction Tuning](https://levelup.gitconnected.com/instruction-tuning-4a75fd4e5149?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
