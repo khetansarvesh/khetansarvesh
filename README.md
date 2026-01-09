@@ -63,11 +63,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Search / Deep-Research Agents](https://khetansarvesh.medium.com/search-deep-research-agents-a7b6f3ae6d32?source=rss-ff946da4f2c------2)
+- [Large Context Traversal](https://khetansarvesh.medium.com/large-context-traversal-8812af72b5f9?source=rss-ff946da4f2c------2)
 - [Improvements](https://khetansarvesh.medium.com/improvements-391274900710?source=rss-ff946da4f2c------2)
 - [Sequential Agents](https://khetansarvesh.medium.com/sequential-agents-56a69041e585?source=rss-ff946da4f2c------2)
 - [Single LLM Systems](https://khetansarvesh.medium.com/single-llm-systems-bc2ae6b1c060?source=rss-ff946da4f2c------2)
-- [LLM Agents](https://khetansarvesh.medium.com/llm-workflows-6988b7bd4210?source=rss-ff946da4f2c------2)
-- [Uniform Recursion in Arrays](https://khetansarvesh.medium.com/uniform-recursion-in-arrays-a5a08d473378?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
