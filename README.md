@@ -63,11 +63,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Variable Recursion in Strings](https://khetansarvesh.medium.com/variable-recursion-in-strings-9eca7a3e2bff?source=rss-ff946da4f2c------2)
 - [Input Output — String Controlled Recursion](https://khetansarvesh.medium.com/input-output-string-controlled-recursion-b9eaba0bd813?source=rss-ff946da4f2c------2)
 - [Strings — DP](https://khetansarvesh.medium.com/strings-dp-b0135bd81379?source=rss-ff946da4f2c------2)
 - [Variable Size Recursion — Strings](https://khetansarvesh.medium.com/variable-size-recursion-strings-23fa9fca5193?source=rss-ff946da4f2c------2)
 - [String Recursion — Input Output Method — Toy Problems](https://khetansarvesh.medium.com/string-recursion-input-output-method-toy-problems-6b8e4d1cb5e7?source=rss-ff946da4f2c------2)
-- [String Recursion — Toy Problems](https://khetansarvesh.medium.com/string-recursion-toy-problems-1343a06e5957?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
