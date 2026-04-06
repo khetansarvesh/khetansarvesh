@@ -21,6 +21,7 @@ This book is designed for computer science students, software engineers, data sc
 - Linear Algebra - Understanding vectors, matrices, eigenvalues
 - Probability - Basic concepts of random variables, distributions, and Bayesian thinking
 - Calculus - Derivatives, gradients, chain rule, and optimization fundamentals
+- Optimization Theory
 - Python Programming - Comfortable with NumPy, pandas, and basic syntax
 
 
