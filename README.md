@@ -23,6 +23,7 @@ This book is designed for computer science students, software engineers, data sc
 - Calculus - Derivatives, gradients, chain rule, and optimization fundamentals
 - Optimization Theory
 - Python Programming - Comfortable with NumPy, pandas, and basic syntax
+- [GPU Programming](https://github.com/khetansarvesh/GPU-Engineering/tree/main)
 
 
 ## Part 1 : Uni-Modal (Single Modality) Data Modelling :
