@@ -65,11 +65,11 @@ This book is designed for computer science students, software engineers, data sc
 
 # Latest from my TechBlogs
 <!-- BLOG-POST-LIST:START -->
+- [Understanding KV Cache / Prompt Cache in Auto-Regressive Models](https://khetansarvesh.medium.com/understanding-kv-cache-prompt-cache-in-auto-regressive-models-27a33044afab?source=rss-ff946da4f2c------2)
 - [Inference Engines &lpar;vLLMs / SGLang&rpar;](https://khetansarvesh.medium.com/inference-engines-vllms-sglang-2a47c5c6d4af?source=rss-ff946da4f2c------2)
 - [Communication Primitives between Distributed GPUs](https://khetansarvesh.medium.com/communication-primitives-between-distributed-gpus-475592742a3d?source=rss-ff946da4f2c------2)
 - [Variable Recursion in Strings](https://khetansarvesh.medium.com/variable-recursion-in-strings-9eca7a3e2bff?source=rss-ff946da4f2c------2)
 - [Input Output — String Controlled Recursion](https://khetansarvesh.medium.com/input-output-string-controlled-recursion-b9eaba0bd813?source=rss-ff946da4f2c------2)
-- [Strings — DP](https://khetansarvesh.medium.com/strings-dp-b0135bd81379?source=rss-ff946da4f2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
